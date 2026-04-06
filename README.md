@@ -14,6 +14,7 @@ Cloud Focus: AWS / Azure (Learning Path)
 Hardware: Intel Core Ultra 5 (16GB RAM) - The beast powering my code 💻
 
 👋 Connect with Me
+
 Let's talk about Cloud, Python, or Networking!
 
 LinkedIn:www.linkedin.com/in/harish-nirmalkar2128
