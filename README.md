@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2069-walking-robot-simulation-ii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
