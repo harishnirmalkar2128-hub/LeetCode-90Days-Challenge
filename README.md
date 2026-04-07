@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
