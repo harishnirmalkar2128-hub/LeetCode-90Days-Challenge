@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2069-walking-robot-simulation-ii) |
+## Simulation
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
