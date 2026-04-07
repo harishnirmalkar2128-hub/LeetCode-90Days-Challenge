@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0021-merge-two-sorted-lists) |
 ## Design
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
