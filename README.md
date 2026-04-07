@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0007-reverse-integer) |
 ## String
 |  |
 | ------- |
