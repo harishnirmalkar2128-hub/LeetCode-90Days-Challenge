@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2069-walking-robot-simulation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0018-4sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0027-remove-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0023-merge-k-sorted-lists) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
