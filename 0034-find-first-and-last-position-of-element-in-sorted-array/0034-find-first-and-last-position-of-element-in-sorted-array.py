@@ -9,9 +9,9 @@ class Solution:
                 if nums[mid] == target:
                     ans = mid
                     if isFirst:
-                        high = mid - 1 # Left mein check karo
+                        high = mid - 1 
                     else:
-                        low = mid + 1  # Right mein check karo
+                        low = mid + 1  
                 elif nums[mid] < target:
                     low = mid + 1
                 else:
