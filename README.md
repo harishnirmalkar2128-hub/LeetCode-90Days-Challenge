@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
