@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
 | ------- |
