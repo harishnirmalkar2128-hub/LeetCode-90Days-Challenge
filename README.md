@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0066-plus-one) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0012-integer-to-roman](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
