@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0040-combination-sum-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0066-plus-one) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0010-regular-expression-matching](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0022-generate-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0015-3sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0018-4sum) |
+| [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 ## Stack
 |  |
 | ------- |
