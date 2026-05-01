@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0039-combination-sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0066-plus-one) |
+| [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0013-roman-to-integer](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0066-plus-one) |
+| [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0005-longest-palindromic-substring](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0022-generate-parentheses) |
+| [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 ## Greedy
