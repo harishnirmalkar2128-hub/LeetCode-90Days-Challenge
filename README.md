@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0029-divide-two-integers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0010-regular-expression-matching](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0022-generate-parentheses) |
 | [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 ## Greedy
