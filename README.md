@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0058-length-of-last-word) |
+| [0796-rotate-string](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sliding Window
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0796-rotate-string) |
 ## Matrix
 |  |
 | ------- |
