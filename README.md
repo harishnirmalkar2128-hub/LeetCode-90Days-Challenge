@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0012-integer-to-roman](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0048-rotate-image) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Depth-First Search
 |  |
