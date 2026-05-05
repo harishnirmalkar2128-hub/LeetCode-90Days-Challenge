@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0023-merge-k-sorted-lists](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0027-remove-element](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Dynamic Programming
 |  |
