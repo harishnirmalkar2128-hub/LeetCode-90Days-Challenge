@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
+| [3660-jump-game-ix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3660-jump-game-ix) |
 ## Greedy
 |  |
 | ------- |
