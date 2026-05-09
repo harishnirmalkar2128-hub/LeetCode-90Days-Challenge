@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Simulation
 |  |
 | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2069-walking-robot-simulation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Array
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1914-cyclically-rotating-a-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0048-rotate-image) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1914-cyclically-rotating-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
