@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3488-closest-equal-element-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3660-jump-game-ix) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3660-jump-game-ix) |
 ## Greedy
 |  |
