@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3660-jump-game-ix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0016-3sum-closest](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0018-4sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
+| [2784-check-if-array-is-good](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2784-check-if-array-is-good) |
 ## Stack
 |  |
 | ------- |
