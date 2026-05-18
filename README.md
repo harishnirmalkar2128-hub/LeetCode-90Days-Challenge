@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [1306-jump-game-iii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
+| [1345-jump-game-iv](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3488-closest-equal-element-queries) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
