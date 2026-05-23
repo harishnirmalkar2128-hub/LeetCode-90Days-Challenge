@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1345-jump-game-iv](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1914-cyclically-rotating-a-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1914-cyclically-rotating-a-grid) |
