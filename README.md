@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [1306-jump-game-iii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1340-jump-game-v) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3660-jump-game-ix) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0015-3sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0018-4sum) |
+| [1340-jump-game-v](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1340-jump-game-v) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2784-check-if-array-is-good) |
 ## Stack
