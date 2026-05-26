@@ -157,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview
 | [0058-length-of-last-word](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1871-jump-game-vii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1871-jump-game-vii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3660-jump-game-ix) |
@@ -281,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
