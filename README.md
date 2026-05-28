@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2784-check-if-array-is-good) |
+| [3093-longest-common-suffix-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3093-longest-common-suffix-queries) |
 | [3488-closest-equal-element-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3660-jump-game-ix) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3093-longest-common-suffix-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0014-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3093-longest-common-suffix-queries) |
 ## Backtracking
 |  |
 | ------- |
