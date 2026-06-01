@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0067-add-binary) |
 | [1914-cyclically-rotating-a-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2069-walking-robot-simulation-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2553-separate-the-digits-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0029-divide-two-integers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0067-add-binary) |
 | [0796-rotate-string](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1871-jump-game-vii) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0067-add-binary) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
