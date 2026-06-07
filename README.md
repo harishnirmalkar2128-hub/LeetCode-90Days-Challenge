@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1914-cyclically-rotating-a-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2553-separate-the-digits-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
 | [1345-jump-game-iv](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3488-closest-equal-element-queries) |
@@ -294,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2574-left-and-right-sum-differences) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
