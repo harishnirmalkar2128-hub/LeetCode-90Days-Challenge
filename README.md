@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0067-add-binary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [1306-jump-game-iii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
