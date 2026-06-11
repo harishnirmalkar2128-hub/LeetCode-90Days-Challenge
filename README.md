@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview
 | [3488-closest-equal-element-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3660-jump-game-ix) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0011-container-with-most-water](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0011-container-with-most-water) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Trie
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0023-merge-k-sorted-lists) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
