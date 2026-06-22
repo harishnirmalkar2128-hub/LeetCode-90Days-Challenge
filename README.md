@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0036-valid-sudoku) |
+| [1189-maximum-number-of-balloons](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0058-length-of-last-word](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0067-add-binary) |
 | [0796-rotate-string](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3691-maximum-total-subarray-value-ii) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
