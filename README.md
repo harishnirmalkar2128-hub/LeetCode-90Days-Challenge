@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1848-minimum-distance-to-the-target-element](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1914-cyclically-rotating-a-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2463-minimum-total-distance-traveled](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2463-minimum-total-distance-traveled) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1189-maximum-number-of-balloons](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3093-longest-common-suffix-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3093-longest-common-suffix-queries) |
 | [3838-weighted-word-mapping](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3838-weighted-word-mapping) |
