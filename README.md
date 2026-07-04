@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [1306-jump-game-iii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -313,10 +314,12 @@ A collection of LeetCode questions to ace the coding interview
 | [1306-jump-game-iii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1189-maximum-number-of-balloons) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
