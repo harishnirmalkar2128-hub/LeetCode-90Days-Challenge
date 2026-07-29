@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3488-closest-equal-element-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0788-rotated-digits](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/0788-rotated-digits) |
 | [1840-maximum-building-height](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1840-maximum-building-height) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3093-longest-common-suffix-queries](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3093-longest-common-suffix-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3838-weighted-word-mapping](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/1189-maximum-number-of-balloons) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -360,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/harishnirmalkar2128-hub/LeetCode-90Days-Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
