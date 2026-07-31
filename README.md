@@ -3,7 +3,7 @@ I am Harish Nirmalkar, an MCA student and aspiring Cloud Engineer. This reposito
 
 🎯 The Goal
 
-To solve 450+ LeetCode problems in 90 days while maintaining a focus on Python for Automation and SQL for Data Management. My ultimate target is to secure a Cloud Operations role in the *****(dream city) by 2028. #LeetCode-90Days-Challenge
+To solve 450+ LeetCode problems in 90 days while maintaining a focus on Python for Automation and SQL for Data Management. My ultimate target is to secure a Cloud Operations role in the *****by 2028. #LeetCode-90Days-Challenge
 
 🛠️ Tech Stack & Skills
 
@@ -22,8 +22,6 @@ Let's talk about Cloud, Python, or Networking!
 LinkedIn:www.linkedin.com/in/harish-nirmalkar2128
 
 GitHub: https://github.com/harishnirmalkar2128-hub
-
-Instagram: https://www.instagram.com/harish._.nirmalkar?igsh=MWZieHIzamt0Z3kxdQ%3D%3D 
 
 A collection of LeetCode questions to ace the coding interview
 
